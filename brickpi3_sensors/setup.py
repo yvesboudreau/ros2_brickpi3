@@ -31,6 +31,7 @@ setup(
             "infrared_distance_node = brickpi3_sensors.infrared_distance_node",
             "touch_sensor_node = brickpi3_sensors.touch_sensor_node",
             "ultrasonic_distance_node = brickpi3_sensors.ultrasonic_distance_node",
+            "ultrasonic_distance_node_nxt = brickpi3_sensors.ultrasonic_distance_node_nxt",
         ],
     },
 )
